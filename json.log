@@ -1,12 +1,6 @@
-DEBUG:root:2016-06-02 23:34
-DEBUG:root:/home/unni/swiggy-test/swiggy/cloudformation scripts/autoscaling/autoscaling.json
-DEBUG:root:Invalid control character at: line 297 column 32 (char 14160)
-DEBUG:root:2016-06-02 23:43
-DEBUG:root:/home/unni/swiggy-test/swiggy/cloudformation scripts/autoscaling/autoscaling.json
-DEBUG:root:Invalid control character at: line 297 column 32 (char 14160)
-DEBUG:root:2016-06-02 23:44
+DEBUG:root:2016-06-02 23:53
 DEBUG:root:/home/unni/swiggy-test/swiggy/ukk.json
 DEBUG:root:Expecting property name: line 1 column 2 (char 1)
-DEBUG:root:2016-06-02 23:44
-DEBUG:root:/home/unni/swiggy-test/swiggy/cloudformation scripts/autoscaling/autoscaling.json
-DEBUG:root:Invalid control character at: line 297 column 32 (char 14160)
+DEBUG:root:2016-06-02 23:53
+DEBUG:root:/home/unni/swiggy-test/swiggy/samplejson/colors.json
+DEBUG:root:Expecting property name: line 12 column 13 (char 233)
