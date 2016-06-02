@@ -4,12 +4,14 @@ This script is used used to linter all the json files (.json) present in a direc
 
 # How To Use
 
-After downloading the repo please activate the virtual environment by typing running the shell script
+After downloading the repo move to the folder  please activate the virtual environment by typing running the shell script
 
+ cd linter
  source startup.sh
 
 Now run the test.py with the following syntax
-
+ 
+ cd ..
  python test.py <directory-name>
 
 After Finishing
