@@ -1,3 +1,10 @@
+########################################################################
+#
+#Json Linter Script
+#
+#Written By: Unni Krishnan J
+#
+#######################################################################
 import fnmatch,os,json,logging, sys, datetime
 
 matches = []
